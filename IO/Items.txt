@@ -1,0 +1,10 @@
+1,Bats,5000,2
+2,Caps,25,25
+3,Rackets,6000,3
+4,Hockey,1200,12
+5,Football,1500,24
+6,Vollyball,2100,12
+7,Basketball,1500,25
+8,Tshirts,200,100
+9,Shorts,500,50
+10,Skates,1000,25
