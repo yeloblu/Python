@@ -32,7 +32,7 @@ label_4=Label (root, text="Country",width=20,font=("bold",10));
 label_4.place(x=70, y=280);
 
 
-list1=['Canada', 'India','UK','USA','Nepal','Iceland','Finland'];
+list1=['Canada', 'India','UK','USA','Iceland','Finland'];
 c=StringVar();
 
 droplist=OptionMenu(root,c,*list1);
